@@ -4,8 +4,7 @@ A minimal [Übersicht](https://tracesof.net/uebersicht/) widget that shows the c
 
 ## Screenshot
 
-<img width="105" height="119" alt="Screenshot 2026-06-25 at 22 33 44" src="https://github.com/user-attachments/assets/057076e5-5980-4de4-af4a-9cfcb92e4cbb" />
-
+<img width="105" height="119" alt="screenshot" src="https://github.com/user-attachments/assets/221c401a-c0d3-440e-9336-9959f3aa02b4" />
 
 (Each row is colored: blue for daytime, grey for off-hours, orange for UTC.)
 
